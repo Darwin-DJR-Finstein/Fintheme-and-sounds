@@ -1,9 +1,9 @@
 [project]
-name = "theme"
+name = "finetheme_and_sound"
 authors = [
-    { name = "darwin", email = "admin@gmail.com"}
+    { name = "Finstein", email = "darwinjesuraj.a@finstein.ai"}
 ]
-description = "theme for ui"
+description = "Per-user theme and sound personalization for the Frappe & ERPNext Desk — live color editor, WCAG-validated palettes, and a per-user Sound Studio."
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
