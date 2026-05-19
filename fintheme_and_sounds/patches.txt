@@ -9,3 +9,4 @@ fintheme_and_sounds.patches.v1_1.sync_default_themes
 fintheme_and_sounds.patches.v1_2.drop_light_default_theme
 fintheme_and_sounds.patches.v1_3.rename_themes_module
 fintheme_and_sounds.patches.v1_4.rename_module_to_app
+fintheme_and_sounds.patches.v1_5.assign_theme_user_role
